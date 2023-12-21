@@ -1,5 +1,5 @@
 python-docx==0.8.11
-PyPDF2==1.26.0
+PyPDF2==1.27.9
 nltk==3.6.2
 textblob==0.15.3
 colorama==0.4.4
